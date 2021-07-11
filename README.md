@@ -1,4 +1,4 @@
-[![Get in touch via Discord](https://badges.krynn.dev/discord/?id=473859389627826176)](https://github.com/CDFN)   [![Get in touch via Mail](https://badges.krynn.dev/email/?address=contact@cdfn.me)](https://github.com/CDFN)
+[![Get in touch via Discord](https://badges.krynn.dev/discord/?id=473859389627826176)](https://github.com/CDFN)   [![Get in touch via Mail](https://badges.krynn.dev/email/?address=contact@cdfn.dev)](https://github.com/CDFN)
 
 ### Hi, I'm [CDFN](https://github.com/CDFN)! 👋
 
